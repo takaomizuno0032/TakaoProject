@@ -9,11 +9,8 @@ C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\bin\Debug\netcoreapp3.1\T
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\bin\Debug\netcoreapp3.1\TakaoProject.pdb
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\bin\Debug\netcoreapp3.1\TakaoProject.Views.dll
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\bin\Debug\netcoreapp3.1\TakaoProject.Views.pdb
-C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.csprojAssemblyReference.cache
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.AssemblyInfoInputs.cache
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.AssemblyInfo.cs
-C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.csproj.CoreCompileInputs.cache
-C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.RazorAssemblyInfo.cache
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.RazorAssemblyInfo.cs
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.TagHelpers.input.cache
@@ -35,3 +32,5 @@ C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\T
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.pdb
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.genruntimeconfig.cache
 C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.csproj.CopyComplete
+C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.csproj.CoreCompileInputs.cache
+C:\Users\mizuno\source\repos\TakaoProject\TakaoProject\obj\Debug\netcoreapp3.1\TakaoProject.MvcApplicationPartsAssemblyInfo.cache
